@@ -1,6 +1,6 @@
 # The Effect of the COVID-19 Pandemic on Cryptocurrency Prices and Currencies Traded on the Foreign Exchange Market
 
-This project was completed in collaboration with Hannah Yoon for CS4262: Topics in Big Data course.
+This project was completed in collaboration with Hunter Baxter for CS4262: Topics in Big Data course.
 We analyzed and visualized the effects of COVID-19 on the cryptocurrency and foreign exchange markets.
 This was done through integrating the [polygon.io REST API](https://polygon.io/docs/getting-started) with an [InfluxDB](https://en.wikipedia.org/wiki/InfluxDB) noSQL database to efficiently access five years of one-minute resolution historical data for 40 cryptocurrency and currency pairs.
 
